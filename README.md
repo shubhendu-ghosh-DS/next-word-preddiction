@@ -4,3 +4,12 @@
   
 
 We see our keyboard suggesting related words when we're typing something on it. that is helpful sometimes, we don't have to type a long word by ourself. the keyboard automatically predict that using our past history and previous words. In this project we tried to build somthing similar of it by using NLP and LSTM.  
+## requirements  
+- numpy
+- pandas
+- nltk
+- matplotlib
+- keras
+- pickle
+- tensorflow
+
