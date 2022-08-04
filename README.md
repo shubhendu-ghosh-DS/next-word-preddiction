@@ -13,3 +13,4 @@ We see our keyboard suggesting related words when we're typing something on it. 
 - pickle
 - tensorflow
 
+the complete jupyter notebook is in the notebook folder
